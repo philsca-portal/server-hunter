@@ -3,7 +3,7 @@
 const Footer = () => {
     return(
         <div className="border-t">
-            <div className="flex justify-evenly py-10">
+            <div className="lg:flex hidden justify-evenly py-10">
                 <div className="flex items-center space-x-2">
                     <svg height="28" viewBox="0 -1.5 22 22" width="28">
                         <path d="M22,8.207c0,-0.954 -0.773,-1.727 -1.728,-1.727c-5.187,0 -20.272,0 -20.272,0c0,0 0,1.854 0,3.313c0,0.954 0.773,1.727 1.728,1.727c5.187,0 20.272,0 20.272,0c0,0 0,-1.854 0,-3.313Z" style={{ fill: '#8d939d'}}></path>
@@ -15,7 +15,7 @@ const Footer = () => {
                 <p className="flex items-center text-center text-xs">
                     Copyright © 2018 - 2024 Server Hunter - All Rights Reserved.
                 </p>
-                <div className="flex space-x-24">
+                <div className="lg:flex hidden space-x-24">
                     <div className="space-y-2 text-center">
                         <h1 className="text-sm font-bold text-slate-600">LEGAL</h1>
                         <div className="text-xs space-y-1">
