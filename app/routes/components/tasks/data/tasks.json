@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TASK-8782",
+    "nameAndProvider": {
+      "name": "STORAGE VPS 1 - NUREMBERG",
+      "rating": 3.7,
+      "review": 7,
+      "provider": "Contabo"
+    },
+    "processor": {
+      "name": "1x Unknown processor",
+      "description": "2 cores at unknown GHz"
+    },
+    "product": "VPS",
+    "memory": "3 GB",
+    "storage": "SSD: 1x 800 GB",
+    "stock": "In stock",
+    "price": "₱ 271.90 PHP"
+  },
+  {
+    "id": "TASK-8232",
+    "nameAndProvider": {
+      "name": "STORAGE VPS 1 - NUREMBERG",
+      "rating": 3.7,
+      "review": 7,
+      "provider": "Contabo"
+    },
+    "processor": {
+      "name": "1x Unknown processor",
+      "description": "2 cores at unknown GHz"
+    },
+    "product": "VPS",
+    "memory": "3 GB",
+    "storage": "SSD: 1x 800 GB",
+    "stock": "In stock",
+    "price": "₱ 271.90 PHP"
+  },
+  {
+    "id": "TASK-4533",
+    "nameAndProvider": {
+      "name": "64 MB KVM VPS",
+      "rating": 5,
+      "review": 1,
+      "provider": "Solia.cloud"
+    },
+    "processor": {
+      "name": "1x i9-13900K",
+      "description": "1 core at 3 GHz"
+    },
+    "product": "VPS",
+    "memory": "64 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Out of stock",
+    "price": "₱ 0.56 PHP"
+  },
+  {
+    "id": "TASK-3454",
+    "nameAndProvider": {
+      "name": "32 MB KVM VPS",
+      "rating": 4,
+      "review": 8,
+      "provider": "Pfcloud"
+    },
+    "processor": {
+      "name": "1x Random CPU",
+      "description": "1 core at 0.1 GHz"
+    },
+    "product": "VPS",
+    "memory": "32 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Out of stock",
+    "price": "₱ 0.60 PHP"
+  },
+  {
+    "id": "TASK-78975",
+    "nameAndProvider": {
+      "name": "AMD EPYC KVM VPS 512 MB (PROMO)",
+      "rating": 0,
+      "review": 0,
+      "provider": "Servervy"
+    },
+    "processor": {
+      "name": "1x AMD EPYC™ 7551",
+      "description": "1 core at 2 GHz"
+    },
+    "product": "VPS",
+    "memory": "512 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Stock unknown",
+    "price": "₱ 0.60 PHP"
+  },
+  {
+    "id": "TASK-8782",
+    "nameAndProvider": {
+      "name": "STORAGE VPS 1 - NUREMBERG",
+      "rating": 3.7,
+      "review": 7,
+      "provider": "Contabo"
+    },
+    "processor": {
+      "name": "1x Unknown processor",
+      "description": "2 cores at unknown GHz"
+    },
+    "product": "VPS",
+    "memory": "3 GB",
+    "storage": "SSD: 1x 800 GB",
+    "stock": "In stock",
+    "price": "₱ 271.90 PHP"
+  },
+  {
+    "id": "TASK-8232",
+    "nameAndProvider": {
+      "name": "STORAGE VPS 1 - NUREMBERG",
+      "rating": 3.7,
+      "review": 7,
+      "provider": "Contabo"
+    },
+    "processor": {
+      "name": "1x Unknown processor",
+      "description": "2 cores at unknown GHz"
+    },
+    "product": "VPS",
+    "memory": "3 GB",
+    "storage": "SSD: 1x 800 GB",
+    "stock": "In stock",
+    "price": "₱ 271.90 PHP"
+  },
+  {
+    "id": "TASK-4533",
+    "nameAndProvider": {
+      "name": "64 MB KVM VPS",
+      "rating": 5,
+      "review": 1,
+      "provider": "Solia.cloud"
+    },
+    "processor": {
+      "name": "1x i9-13900K",
+      "description": "1 core at 3 GHz"
+    },
+    "product": "VPS",
+    "memory": "64 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Out of stock",
+    "price": "₱ 0.56 PHP"
+  },
+  {
+    "id": "TASK-3454",
+    "nameAndProvider": {
+      "name": "32 MB KVM VPS",
+      "rating": 4,
+      "review": 8,
+      "provider": "Pfcloud"
+    },
+    "processor": {
+      "name": "1x Random CPU",
+      "description": "1 core at 0.1 GHz"
+    },
+    "product": "VPS",
+    "memory": "32 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Out of stock",
+    "price": "₱ 0.60 PHP"
+  },
+  {
+    "id": "TASK-78975",
+    "nameAndProvider": {
+      "name": "AMD EPYC KVM VPS 512 MB (PROMO)",
+      "rating": 0,
+      "review": 0,
+      "provider": "Servervy"
+    },
+    "processor": {
+      "name": "1x AMD EPYC™ 7551",
+      "description": "1 core at 2 GHz"
+    },
+    "product": "VPS",
+    "memory": "512 MB",
+    "storage": "NVMe: 1x 1 GB",
+    "stock": "Stock unknown",
+    "price": "₱ 0.60 PHP"
+  }
+]
